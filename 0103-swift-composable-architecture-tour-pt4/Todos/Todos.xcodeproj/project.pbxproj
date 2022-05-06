@@ -93,7 +93,10 @@
 				2A7569A42459E73400647512 /* Products */,
 				CAE45ACB247D9E880017F9E6 /* Frameworks */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
 		};
 		2A7569A42459E73400647512 /* Products */ = {
 			isa = PBXGroup;
